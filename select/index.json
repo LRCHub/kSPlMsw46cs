@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "僕は君の答えになりたいな",
+  "base_artist": "CreepHyp",
+  "createdAt": "2026-01-13T06:38:36.359887Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕は君の答えになりたいな",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/01_僕は君の答えになりたいな_クリープハイプ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "僕は君の答えになりたいな",
+      "artist": "Creep Hyp",
+      "has_synced": false,
+      "path": "select/02_僕は君の答えになりたいな_Creep_Hyp.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "僕は君の答えになりたいな - Bokuwa Kimino Kotaeni Naritaina",
+      "artist": "CreepHyp",
+      "has_synced": false,
+      "path": "select/03_僕は君の答えになりたいな_-_Bokuwa_Kimino_Kotaeni_Naritaina_CreepHyp.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕は君の答えになりたいな",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_僕は君の答えになりたいな_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "僕は君の答えになりたいな",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_02_僕は君の答えになりたいな_クリープハイプ.txt"
+    }
+  ]
+}
